@@ -111,3 +111,9 @@ Once the admin logs out, the events are displayed to users on the *Dashboard*. S
 4.⁠ ⁠Students register by providing their details, and after successful registration, they receive a confirmation form.
 
 This simple workflow provides a streamlined event management and registration process for both event organizers and participants.
+
+
+## Link to the demo of the project : https://drive.google.com/file/d/1OSdy00KXXC_G097rShL32P3uuZOtKFa6/view?usp=drivesdk
+  SRS- https://drive.google.com/file/d/1ACRfKU8xa-T9-X54TBLJ58NxveYnK36E/view?usp=drivesdk
+  SDD- https://drive.google.com/file/d/1G2-HeYWHyD8DyPIhrHaVIox9c43aKaeH/view?usp=drivesdk
+  Software Test Plan : https://docs.google.com/document/d/18GUsAyeKXVhEoogp1KC1z4-eTYgqFdSS/edit?usp=sharing&ouid=113754257959949511359&rtpof=true&sd=true
