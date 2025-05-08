@@ -112,6 +112,13 @@ Once the admin logs out, the events are displayed to users on the *Dashboard*. S
 
 This simple workflow provides a streamlined event management and registration process for both event organizers and participants.
 
+### Problem Statement:
+Event Management.
+Website that will help in planning and organizing campus events. 
+Should be able to help in keeping track of expenses, scheduling of 
+different shows at different venues etc. Send alerts to interested 
+students before the event starts
+
 
 ## Link to the demo of the project : https://drive.google.com/file/d/1OSdy00KXXC_G097rShL32P3uuZOtKFa6/view?usp=drivesdk
   SRS- https://drive.google.com/file/d/1ACRfKU8xa-T9-X54TBLJ58NxveYnK36E/view?usp=drivesdk
