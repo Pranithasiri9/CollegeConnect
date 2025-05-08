@@ -81,3 +81,33 @@ The system comes pre-populated with these admin accounts:
 ### Registration
 - `POST /api/register/{event_id}` - Register for an event
 - `GET /api/confirmation/{registration_id}` - Get registration confirmation
+
+## Project Overview
+
+*College Connect* is a platform that allows event management and registration for students. The system has two main interfaces: *Admin* and *User* (Student).
+
+### Admin Interface
+
+The *Admin* has exclusive login access, which allows them to:
+
+•⁠  ⁠*Add Events*: Admins can add new events, specifying the event name, venue, and event details.
+•⁠  ⁠*View/Delete Events: Admins can view the number of registrations for each event or delete events. The **View* option allows the admin to see the number of registrations and download the registration data as a CSV file.
+•⁠  ⁠*Admin Access Control*: Only two hardcoded admin accounts (Admin 1 and Admin 2) are authorized to manage events.
+
+Once logged in, the admin can monitor registrations for each event and download a CSV file with registration details.
+
+### User Interface
+
+Once the admin logs out, the events are displayed to users on the *Dashboard*. Students can:
+
+•⁠  ⁠*Register for Events*: Users can click the "Register Event" button to sign up for an event, providing their name, email, and student ID.
+•⁠  ⁠*Print Registration Form*: After successful registration, users can print a confirmation form with their event details.
+
+### Summary of How the System Works
+
+1.⁠ ⁠The admin logs in to manage events.
+2.⁠ ⁠Admin can add, view, or delete events, with the ability to download registration details in CSV format.
+3.⁠ ⁠After the admin logs out, the events are displayed for students to view and register.
+4.⁠ ⁠Students register by providing their details, and after successful registration, they receive a confirmation form.
+
+This simple workflow provides a streamlined event management and registration process for both event organizers and participants.
